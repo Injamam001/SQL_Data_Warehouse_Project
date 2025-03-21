@@ -1,13 +1,13 @@
 # Data Warehouse & Analytics Framework
 
-### Overview
+### 📝 Overview
 This project implements a **Medallion Architecture** (Bronze, Silver, Gold layers) for a data warehouse designed to handle large-scale data ingestion, transformation, and reporting. The primary data sources are **CRM** and **ERP** systems, allowing for the seamless integration of customer and business operations data. This architecture enhances data quality, scalability, and efficiency in data analysis and reporting by organizing data into different layers.
 
 The system leverages **SQL Server** as the core database technology and follows best practices in data warehousing and ETL (Extract, Transform, Load) processes. It allows users to transform raw data into enriched data that is ready for business intelligence (BI) reporting.
 
 ---
 
-### Medallion Architecture
+### 🏛️Medallion Architecture
 
 1. **Bronze Layer**:
    - **Purpose**: Raw data storage.
@@ -32,7 +32,7 @@ The system leverages **SQL Server** as the core database technology and follows 
 
 ---
 
-### Key Features
+### ⭐ Key Features
 - **CRM and ERP Data Integration**: The project integrates data from Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems.
 - **ETL Pipelines**: Automated pipelines to load, clean, and transform data into the Medallion Architecture.
 - **Stored Procedures**: SQL stored procedures manage data processing across the three layers.
@@ -40,7 +40,7 @@ The system leverages **SQL Server** as the core database technology and follows 
 - **Scalable Design**: Optimized for handling large datasets and efficient querying.
 ---
 
-### Technologies Used:
+### 🛠️ Technologies Used:
 - **SQL Server** (SSMS) for database management and querying.
 - **T-SQL** for writing stored procedures, data transformation, and aggregation.
 - **BULK INSERT** for high-performance data ingestion into the Bronze layer.
