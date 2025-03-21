@@ -30,7 +30,7 @@ The system leverages **SQL Server** as the core database technology and follows 
    - **Objective**: To deliver business-ready data used in dashboards, reports, and analytics.
    - **ETL Process**: Business metrics, KPIs, and other calculated data are processed here for ready-to-use reporting.
   
-   ![architecture](https://imgur.com/Pjn63Tg)
+   ![architecture](https://imgur.com/a/medallion-architecture-MoPcs0Y)
 
 ---
 
