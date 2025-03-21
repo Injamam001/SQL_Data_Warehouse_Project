@@ -14,7 +14,7 @@ The system leverages **SQL Server** as the core database technology and follows 
    - **Data Source**: CRM and ERP systems.
    - **Data Transformation**: No transformation, data is ingested in its raw form.
    - **Objective**: To preserve raw data for auditing, lineage tracking, and troubleshooting.
-   - **ETL Process**: Data is ingested directly using `BULK INSERT` with minimal processing. This layer serves as a foundation for further transformation.
+   - **ETL Process**: Data is ingested directly using `BULK INSERT` with no processing. This layer serves as a foundation for further transformation.
 
 2. **Silver Layer**:
    - **Purpose**: Clean and structured data for further processing.
