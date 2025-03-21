@@ -29,6 +29,8 @@ The system leverages **SQL Server** as the core database technology and follows 
    - **Data Transformation**: Aggregation, calculations (such as totals, averages), and any additional transformations needed for reporting.
    - **Objective**: To deliver business-ready data used in dashboards, reports, and analytics.
    - **ETL Process**: Business metrics, KPIs, and other calculated data are processed here for ready-to-use reporting.
+  
+   ![architecture](https://imgur.com/a/MoPcs0Y)
 
 ---
 
