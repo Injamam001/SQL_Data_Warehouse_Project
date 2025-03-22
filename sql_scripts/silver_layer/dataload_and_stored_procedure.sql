@@ -82,7 +82,7 @@ BEGIN
 		*,
 		ROW_NUMBER() OVER(PARTITION BY cst_id ORDER BY cst_create_date desc) AS row_version
 		FROM bronze.crm_cust_info) AS T
-		WHERE row_version = 1 AND cst_key != 'PO25'; -- removing duplicate unique id
+		WHERE row_version = 1; -- removing duplicate unique id
 
 		SET @end_time = GETDATE(); -- fetching loading end time
 		PRINT '>> Load Duration: '+ CAST(DATEDIFF(second, @start_time, @end_time) AS VARCHAR) + ' Seconds'; -- calculating load duration
