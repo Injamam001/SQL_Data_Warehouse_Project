@@ -30,7 +30,7 @@ The system leverages **SQL Server** as the core database technology and follows 
    - **Objective**: To deliver business-ready data used in dashboards, reports, and analytics.
    - **ETL Process**: Business metrics, KPIs, and other calculated data are processed here for ready-to-use reporting.
   
-  <img src="https://raw.githubusercontent.com/Injamam001/SQL_Data_Warehouse_Project/main/docs/Medallion_Data_Architecture.png" alt="Medallion Data Architecture" style="width:100%; height:500px;"/>
+  <img src="https://raw.githubusercontent.com/Injamam001/SQL_Data_Warehouse_Project/main/docs/Medallion_Data_Architecture.png" alt="Medallion Data Architecture" style="width:80%; height:500px;"/>
 
 
 ---
