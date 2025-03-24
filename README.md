@@ -41,7 +41,7 @@ The system leverages **SQL Server** as the core database technology and follows 
 ---
 
 ### Data Integration Diagram:
-<img src="https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png" alt="Data Flow" width="90%" height="400">
+<img src="https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png" alt="Data Flow" width="80%" height="300">
 
 
 ---
