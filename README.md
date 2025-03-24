@@ -35,6 +35,11 @@ The system leverages **SQL Server** as the core database technology and follows 
 
 ---
 
+### Data Flow Diagram:
+![Data Flow](https://raw.githubusercontent.com/Injamam001/SQL_Data_Warehouse_Project/main/docs/data_flow_diagram.png)
+
+---
+
 ### ⭐ Key Features
 - **CRM and ERP Data Integration**: The project integrates data from Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems.
 - **ETL Pipelines**: Automated pipelines to load, clean, and transform data into the Medallion Architecture.
@@ -44,10 +49,11 @@ The system leverages **SQL Server** as the core database technology and follows 
 ---
 
 ### 🛠️ Technologies Used:
-- **SQL Server** (SSMS) for database management and querying.
-- **T-SQL** for writing stored procedures, data transformation, and aggregation.
-- **BULK INSERT** for high-performance data ingestion into the Bronze layer.
-- **Stored Procedures** for defining ETL processes and transformations in the Silver and Gold layers.
+- **SQL Server**: Database management system for handling data.
+- **SQL Server Management Studio (SSMS)**: Used to create stored procedures for loading data into the warehouse.
+- **ETL (Extract, Transform, Load)**: Processes for data ingestion and transformation.
+- **Git**: Version control for managing the project.
+- **draw.io**: Used for creating architectural diagrams.
 
 ---
 
