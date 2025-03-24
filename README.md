@@ -41,12 +41,13 @@ The system leverages **SQL Server** as the core database technology and follows 
 ---
 
 ### Data Integration Diagram:
-![Data Integration](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)
+<img src="https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png" alt="Data Flow" width="90%" height="400">
+
 
 ---
 
 ### Star Schema:
-![Star Schema](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)
+![Star Schema](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png)
 
 ---
 ### ⭐ Key Features
