@@ -36,10 +36,19 @@ The system leverages **SQL Server** as the core database technology and follows 
 ---
 
 ### Data Flow Diagram:
-![Data Flow](https://raw.githubusercontent.com/Injamam001/SQL_Data_Warehouse_Project/main/docs/data_flow_diagram.png)
+![Data Flow](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_flow_diagram.png)
 
 ---
 
+### Data Integration Diagram:
+![Data Integration](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)
+
+---
+
+### Star Schema:
+![Star Schema](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)
+
+---
 ### ⭐ Key Features
 - **CRM and ERP Data Integration**: The project integrates data from Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems.
 - **ETL Pipelines**: Automated pipelines to load, clean, and transform data into the Medallion Architecture.
