@@ -1,9 +1,40 @@
 # Data Warehouse & Analytics Framework
 
-### 📝 Overview
 This project implements a **Medallion Architecture** (Bronze, Silver, Gold layers) for a data warehouse designed to handle large-scale data ingestion, transformation, and reporting. The primary data sources are **CRM** and **ERP** systems, allowing for the seamless integration of customer and business operations data. This architecture enhances data quality, scalability, and efficiency in data analysis and reporting by organizing data into different layers.
 
-The system leverages **SQL Server** as the core database technology and follows best practices in data warehousing and ETL (Extract, Transform, Load) processes. It allows users to transform raw data into enriched data that is ready for business intelligence (BI) reporting.
+## 📖 Project Overview
+
+This project involves:
+
+- **Data Architecture**: Designing a Modern Data Warehouse using the Medallion Architecture with Bronze, Silver, and Gold layers.
+- **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+- **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+- **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
+- SQL Development
+- Data Architecture
+- Data Engineering
+- ETL Pipeline Development
+- Data Modeling
+- Data Analytics
+
+---
+
+## 🚀 Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+#### Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+#### Specifications
+- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope**: Focus on the latest dataset only; historization of data is not required.
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
 
