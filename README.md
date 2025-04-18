@@ -59,8 +59,8 @@ Data flows from raw ingestion (Bronze), through cleaning/transformation (Silver)
 ### 📊 Data Modeling
 The project uses a Star Schema model:
 
-- **Fact Table**: Sales, Transactions  
-- **Dimension Tables**: Customer, Product, Time, Region  
+- **Fact Table**: Sales
+- **Dimension Tables**: Customer, Product
 
 > ⭐ Click [**here**](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png) to see the star schema model.
 
