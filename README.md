@@ -37,9 +37,9 @@ This project is based on the Medallion Architecture, consisting of three layers:
 - **Silver Layer**: Processes and transforms raw data, applying business rules and validations. 
 - **Gold Layer**: Aggregates and models data into fact and dimension tables for reporting.
 
-> 📌 See diagram in the [Diagrams](#-diagrams) section.
+> 📌 See diagram in the [🖼️ Diagrams](#-diagrams) section.
 
-#### ⚙️ ETL/ELT Pipeline Description
+**⚙️ ETL/ELT Pipeline Description** 
 Data flows from raw ingestion (Bronze), through cleaning/transformation (Silver), to a final modeled format (Gold). Stored procedures, scripts, and views are used for automation.
 
 
@@ -59,7 +59,7 @@ The project uses a Star Schema model:
 - **Fact Table**: Sales, Transactions  
 - **Dimension Tables**: Customer, Product, Time, Region  
 
-> ⭐ See diagram in the [Diagrams](#-diagrams) section.
+> ⭐ See diagram in the [🖼️ Diagrams](#-diagrams) section.
 
 
 
