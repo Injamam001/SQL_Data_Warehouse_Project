@@ -54,6 +54,12 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - [🥇 Gold Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/gold_layer) – Business-ready aggregations and analytics
 - [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/sql_scripts_mysql/bronze_layer/data_cleaning_bronze.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
 
+### 🖼️ Diagrams
+
+- 🧱 [Medallion Architecture Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/Medallion_Data_Architecture.png)
+- 📊 [Data Flow Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_flow_diagram.png) 
+- 🔄 [Data Integration Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)  
+- ⭐ [Star Schema Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png)
 
 ---
 
@@ -82,24 +88,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
   
   <img src="https://raw.githubusercontent.com/Injamam001/SQL_Data_Warehouse_Project/main/docs/Medallion_Data_Architecture.png" alt="Medallion Data Architecture" style="width:90%; height:500px;"/>
 
-
 ---
 
-### Data Flow Diagram
-![Data Flow](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_flow_diagram.png)
-
----
-
-### Data Integration Diagram
-![Data Flow](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)
-
-
----
-
-### Star Schema
-![Star Schema](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png)
-
----
 ### ⭐ Key Features
 - **CRM and ERP Data Integration**: The project integrates data from Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems.
 - **ETL Pipelines**: Automated pipelines to load, clean, and transform data into the Medallion Architecture.
