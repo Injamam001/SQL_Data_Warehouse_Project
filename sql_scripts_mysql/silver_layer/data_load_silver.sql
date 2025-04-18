@@ -104,7 +104,7 @@ INSERT INTO silver.crm_prd_info (
 
 SELECT 
 	prd_id, 
-    TRIM(LEFT (prd_key,5)) AS cat_id,
+    REPLACE (TRIM(LEFT (prd_key,5)),'-','_') AS cat_id,
 	TRIM(RIGHT(RIGHT(prd_key,LENGTH(prd_key)-5),LENGTH(RIGHT(prd_key,LENGTH(prd_key)-5))-1)) AS prd_key,
     TRIM(prd_nm), 
     prd_cost, 
