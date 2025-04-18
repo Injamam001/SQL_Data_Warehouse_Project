@@ -36,8 +36,10 @@ This project is based on the **Medallion Architecture**, consisting of three lay
 - **Bronze Layer**: Handles raw data ingestion from CRM, ERP, and external systems.
 - **Silver Layer**: Processes and transforms raw data, applying business rules and validations. 
 - **Gold Layer**: Aggregates and models data into fact and dimension tables for reporting.
+  
 
 > 📌 Click [**here**](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/Medallion_Data_Architecture.png) to see the architecture diagram.
+
 
 
 **⚙️ ETL/ELT Pipeline Description**
