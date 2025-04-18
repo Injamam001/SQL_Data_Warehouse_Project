@@ -23,7 +23,7 @@ This project involves:
 
 ---
 
-## 🎯 Objectives
+## 💡 Objectives
 - Establish a scalable, modular data warehouse  
 - Enable business-ready analytics  
 - Improve data quality and consistency  
@@ -39,6 +39,7 @@ This project is based on the Medallion Architecture, consisting of three layers:
 > 📌 See diagram in the [Diagrams](#-diagrams) section.
 
 ---
+
 ## 📂 Layer Descriptions
 ### 🥉 Bronze Layer
 Handles raw data ingestion from CRM, ERP, and external systems.
@@ -60,6 +61,7 @@ Aggregates and models data into fact and dimension tables for reporting.
 ---
 ## ⚙️ ETL/ELT Pipeline Description
 Data flows from raw ingestion (Bronze), through cleaning/transformation (Silver), to a final modeled format (Gold). Stored procedures, scripts, and views are used for automation.
+
 ---
 
 ## 📊 Data Modeling
@@ -105,6 +107,7 @@ The project uses a Star Schema model:
 
 ## 📄 License
 [MIT License](LICENSE)
+
 ---
 
 
