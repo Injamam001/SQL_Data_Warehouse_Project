@@ -21,7 +21,7 @@ This project involves:
 - Data Modeling
 - Data Analytics
 
----
+
 
 ## 💡 Objectives
 - Establish a scalable, modular data warehouse  
@@ -29,7 +29,7 @@ This project involves:
 - Improve data quality and consistency  
 - Support BI dashboards and reporting  
 
----
+
 ## 🧱 Architecture Overview
 This project is based on the Medallion Architecture, consisting of three layers:
 - **Bronze Layer**: Raw, ingested data from multiple sources  
@@ -38,7 +38,7 @@ This project is based on the Medallion Architecture, consisting of three layers:
 
 > 📌 See diagram in the [Diagrams](#-diagrams) section.
 
----
+
 
 ## 📂 Layer Descriptions
 ### 🥉 Bronze Layer
@@ -50,7 +50,7 @@ Processes and transforms raw data, applying business rules and validations.
 ### 🥇 Gold Layer
 Aggregates and models data into fact and dimension tables for reporting.
 
----
+
 
 ## 🛠️ Technologies Used
 - **MySQL Workbench** – SQL-based ETL logic and transformations  
@@ -58,11 +58,11 @@ Aggregates and models data into fact and dimension tables for reporting.
 - **GitHub** – Version control and collaboration  
 - **draw.io**: Used for creating architectural diagrams.
 
----
+
 ## ⚙️ ETL/ELT Pipeline Description
 Data flows from raw ingestion (Bronze), through cleaning/transformation (Silver), to a final modeled format (Gold). Stored procedures, scripts, and views are used for automation.
 
----
+
 
 ## 📊 Data Modeling
 The project uses a Star Schema model:
@@ -71,7 +71,7 @@ The project uses a Star Schema model:
 
 > ⭐ See diagram in the [Diagrams](#-diagrams) section.
 
----
+
 
 
 ## 🔗 Necessary Links
@@ -97,17 +97,17 @@ The project uses a Star Schema model:
 - 🔄 [Data Integration Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)  
 - ⭐ [Star Schema Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png)
 
----
+
 ## 🚀 How to Run / Deployment Instructions
 1. Clone this repo  
 2. Load SQL scripts in MySQL Workbench or SSMS  
 3. Execute scripts layer-by-layer (Bronze → Silver → Gold)  
 4. Load data into reporting tools (optional) 
----
+
 
 ## 📄 License
 [MIT License](LICENSE)
 
----
+
 
 
