@@ -40,14 +40,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ## 🔗 Necessary Links
 
-### 🖥️ SSMS (SQL Server Management Studio)
+#### 🖥️ SSMS (SQL Server Management Studio)
 
 - [📦 Bronze Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/bronze_layer) – Raw data ingestion and staging logic  
 - [✨ Silver Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/silver_layer) – Cleansing and transformation queries  
 - [🥇 Gold Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/gold_layer) – Business-ready aggregations and analytics
 - [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/quality_check/quality_check_for_loading_data_into_silver_layer.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
 
-### 🐬 MySQL Workbench
+#### 🐬 MySQL Workbench
 
 - [📦 Bronze Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/bronze_layer) – Raw data ingestion and staging logic  
 - [✨ Silver Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/silver_layer) – Cleansing and transformation queries  
