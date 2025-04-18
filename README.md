@@ -97,6 +97,12 @@ The project uses a Star Schema model:
 - 🔄 [Data Integration Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/data_integration.png)  
 - ⭐ [Star Schema Diagram](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png)
 
+## Features
+
+- 📊 Cleaned and structured data layers
+- 🧱 Medallion architecture design
+- ⚙️ Automated ETL/ELT pipelines
+- 🔍 Optimized for reporting and analytics
 
 
 ## 🚀 How to Run / Deployment Instructions
