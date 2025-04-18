@@ -41,13 +41,12 @@ This project is based on the Medallion Architecture, consisting of three layers:
 
 
 ## 📂 Layer Descriptions
-### 🥉 Bronze Layer
+
+#### 🥉 Bronze Layer
 Handles raw data ingestion from CRM, ERP, and external systems.
-
-### 🥈 Silver Layer
+#### 🥈 Silver Layer
 Processes and transforms raw data, applying business rules and validations.
-
-### 🥇 Gold Layer
+#### 🥇 Gold Layer
 Aggregates and models data into fact and dimension tables for reporting.
 
 
