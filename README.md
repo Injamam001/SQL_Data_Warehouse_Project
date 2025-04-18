@@ -51,18 +51,18 @@ Data flows from raw ingestion (Bronze), through cleaning/transformation (Silver)
 
 ## 🛠️ Technologies Used
 
-- **MySQL Workbench** – SQL-based ETL logic and transformations  
-- **SSMS (SQL Server Management Studio)** – SQL-based ETL logic and transformations 
-- **GitHub** – Version control and collaboration  
-- **draw.io**: Used for creating architectural diagrams.
+> **MySQL Workbench** – SQL-based ETL logic and transformations  
+> **SSMS (SQL Server Management Studio)** – SQL-based ETL logic and transformations 
+> **GitHub** – Version control and collaboration  
+> **draw.io**: Used for creating architectural diagrams.
 
 
 
 ### 📊 Data Modeling
 The project uses a Star Schema model:
 
-- **Fact Table**: Sales
-- **Dimension Tables**: Customer, Product
+**Fact Table**: Sales
+**Dimension Tables**: Customer, Product
 
 > ⭐ Click [**here**](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png) to see the star schema model.
 
@@ -73,10 +73,10 @@ The project uses a Star Schema model:
 
 #### 🖥️ SSMS (SQL Server Management Studio)
 
- [📦 Bronze Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/bronze_layer) – Raw data ingestion and staging logic  
- [✨ Silver Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/silver_layer) – Cleansing and transformation queries  
- [🥇 Gold Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/gold_layer) – Business-ready aggregations and analytics
- [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/quality_check/quality_check_for_loading_data_into_silver_layer.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
+- [📦 Bronze Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/bronze_layer) – Raw data ingestion and staging logic  
+- [✨ Silver Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/silver_layer) – Cleansing and transformation queries  
+- [🥇 Gold Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/gold_layer) – Business-ready aggregations and analytics
+- [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/quality_check/quality_check_for_loading_data_into_silver_layer.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
 
 #### 🐬 MySQL Workbench
 
