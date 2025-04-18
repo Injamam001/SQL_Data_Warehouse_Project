@@ -37,7 +37,7 @@ This project is based on the Medallion Architecture, consisting of three layers:
 - **Silver Layer**: Processes and transforms raw data, applying business rules and validations. 
 - **Gold Layer**: Aggregates and models data into fact and dimension tables for reporting.
 
-> 📌 Click [here](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/Medallion_Data_Architecture.png) to see the architecture diagram.
+> 📌 Click [**here**](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/Medallion_Data_Architecture.png) to see the architecture diagram.
 > 
 
 **⚙️ ETL/ELT Pipeline Description**
@@ -62,7 +62,7 @@ The project uses a Star Schema model:
 - **Fact Table**: Sales, Transactions  
 - **Dimension Tables**: Customer, Product, Time, Region  
 
-> ⭐ Click [here](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png) to see the star schema model.
+> ⭐ Click [**here**](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png) to see the star schema model.
 
 
 
