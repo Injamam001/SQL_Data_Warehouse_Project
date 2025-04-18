@@ -1,6 +1,6 @@
 # 📦 Data Warehouse & Analytics Framework
 
-This project implements a Medallion Architecture-based Data Warehouse using MySQL and SSMS. It focuses on data ingestion, cleansing, transformation, and modeling to support advanced analytics and business intelligence. The primary data sources are **CRM** and **ERP** systems, allowing for the seamless integration of customer and business operations data. This architecture enhances data quality, scalability, and efficiency in data analysis and reporting by organizing data into different layers.
+This project implements a **Medallion** Architecture-based Data Warehouse using MySQL and SSMS. It focuses on data ingestion, cleansing, transformation, and modeling to support advanced analytics and business intelligence. The primary data sources are **CRM** and **ERP** systems, allowing for the seamless integration of customer and business operations data. This architecture enhances data quality, scalability, and efficiency in data analysis and reporting by organizing data into different layers.
 
 
 ## 📖 Project Overview
@@ -31,7 +31,7 @@ This project involves:
 
 
 ## 🧱 Architecture Overview
-This project is based on the Medallion Architecture, consisting of three layers:
+This project is based on the **Medallion Architecture**, consisting of three layers:
 
 - **Bronze Layer**: Handles raw data ingestion from CRM, ERP, and external systems.
 - **Silver Layer**: Processes and transforms raw data, applying business rules and validations. 
