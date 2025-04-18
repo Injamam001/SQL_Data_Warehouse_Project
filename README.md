@@ -42,11 +42,11 @@ This project is based on the Medallion Architecture, consisting of three layers:
 
 ## 📂 Layer Descriptions
 
-#### 🥉 Bronze Layer
+##### Bronze Layer
 Handles raw data ingestion from CRM, ERP, and external systems.
-#### 🥈 Silver Layer
+##### Silver Layer
 Processes and transforms raw data, applying business rules and validations.
-#### 🥇 Gold Layer
+##### Gold Layer
 Aggregates and models data into fact and dimension tables for reporting.
 
 
@@ -88,6 +88,11 @@ The project uses a Star Schema model:
 - [✨ Silver Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/silver_layer) – Cleansing and transformation queries  
 - [🥇 Gold Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/gold_layer) – Business-ready aggregations and analytics
 - [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/sql_scripts_mysql/bronze_layer/data_cleaning_bronze.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
+
+
+### 🗂️ Datasets
+- [📊 CRM Dataset](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/datasets/source_crm)
+- [📂 ERP Dataset](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/datasets/source_erp)
 
 ### 🖼️ Diagrams
 
