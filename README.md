@@ -51,22 +51,19 @@ Data flows from raw ingestion (Bronze), through cleaning/transformation (Silver)
 
 ## 🛠️ Technologies Used
 
- **MySQL Workbench** – SQL-based ETL logic and transformations  
- 
- **SSMS (SQL Server Management Studio)** – SQL-based ETL logic and transformations 
- 
- **GitHub** – Version control and collaboration  
- 
- **draw.io**: Used for creating architectural diagrams.
+- **MySQL Workbench** – SQL-based ETL logic and transformations  
+- **SSMS (SQL Server Management Studio)** – SQL-based ETL logic and transformations 
+- **GitHub** – Version control and collaboration  
+- **draw.io**: Used for creating architectural diagrams.
 
 
 
 ### 📊 Data Modeling
 The project uses a Star Schema model:
 
-**Fact Table**: Sales
+> **Fact Table**: Sales
+> **Dimension Tables**: Customer, Product
 
-**Dimension Tables**: Customer, Product
 
 > ⭐ Click [**here**](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/docs/star_schema_gold_layer.png) to see the star schema model.
 
