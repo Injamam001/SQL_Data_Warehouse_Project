@@ -139,9 +139,10 @@ The project uses a Star Schema model:
 
 ## 📬 Contact
 
-<a href="https://www.linkedin.com/in/i-haque/">
-  <img src="https://github.com/user-attachments/assets/5be0fbc4-7983-4862-a1b8-30c5b79f8df5" width="30" height="30" alt="LinkedIn">
-</a> <span style="font-style: italic;">Feel free to connect with me for any queries!</span>
+<a href="https://www.linkedin.com/in/i-haque/" style="text-decoration: none;">
+  <img src="https://github.com/user-attachments/assets/5be0fbc4-7983-4862-a1b8-30c5b79f8df5" width="30" height="30" alt="LinkedIn" style="vertical-align: middle;">
+</a><span style="font-style: italic; vertical-align: middle;">Feel free to connect with me for any queries!</span>
+
 
 
 
