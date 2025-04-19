@@ -143,7 +143,7 @@ The project uses a Star Schema model:
   <img src="https://github.com/user-attachments/assets/5be0fbc4-7983-4862-a1b8-30c5b79f8df5" width="30" height="30" alt="LinkedIn" style="vertical-align: middle;">
 </a>
 
-**Feel free to connect with me for any queries!**
+*Feel free to connect with me for any queries!*
 
 
 
