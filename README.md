@@ -46,16 +46,16 @@ This project is based on the **Medallion Architecture**, consisting of three lay
 
 This project implements a structured ETL (Extract, Transform, Load) pipeline following the Medallion Architecture. Raw data from CRM and ERP systems is ingested into the Bronze Layer, cleaned and standardized in the Silver Layer, and finally transformed into business-ready dimensional models in the Gold Layer. **ETL** methods and techniques used in this project are listed below:
 
-#### Extraction 
+#### 📥Extraction 
 
 - **Method:** Pull Extraction
 
 - **Type:** Full Extraction
 
 - **Technique:** File Parsing
-- 
+  
 
-#### Transformation
+#### 🔄Transformation
 
 - Data enrichment
 - Data standardization and normalization
@@ -64,7 +64,7 @@ This project implements a structured ETL (Extract, Transform, Load) pipeline fol
 - Derived columns
 - Data aggregations
 
-#### Load 
+#### 📤Load 
 
 - **Processing type:** Batch Processing
 
