@@ -139,7 +139,7 @@ The project uses a Star Schema model:
 
 ## 📬 Contact
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/i-haque/) ![image](https://github.com/user-attachments/assets/5be0fbc4-7983-4862-a1b8-30c5b79f8df5)
+![LinkedIn](https://github.com/user-attachments/assets/5be0fbc4-7983-4862-a1b8-30c5b79f8df5 =30x30)
 
 
 ✨ *Feel free to connect with me for any queries!*
