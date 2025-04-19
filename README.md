@@ -137,6 +137,13 @@ The project uses a Star Schema model:
 4. Load data into reporting tools (optional) 
 
 
+## 📬 Contact
+
+- **LinkedIn**: [My Profile](www.linkedin.com/in/i-haque/)
+
+✨ *Feel free to connect with me for any queries!*
+
+
 ## 📄 License
 [MIT License](LICENSE)
 
