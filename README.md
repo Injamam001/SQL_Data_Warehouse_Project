@@ -141,9 +141,7 @@ The project uses a Star Schema model:
 
 <a href="https://www.linkedin.com/in/i-haque/">
   <img src="https://github.com/user-attachments/assets/5be0fbc4-7983-4862-a1b8-30c5b79f8df5" width="30" height="30" alt="LinkedIn">
-</a>  *Feel free to connect with me for any queries!*
-
-
+</a> <span style="font-style: italic;">Feel free to connect with me for any queries!</span>
 
 
 
