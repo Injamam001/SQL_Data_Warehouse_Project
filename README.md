@@ -70,7 +70,7 @@ This project implements a structured ETL (Extract, Transform, Load) pipeline fol
 
 - **Method:** Full Load (Truncate & Insert)
 
-- **Slowly Changing Dimension (SCD):** SCD 1 (Overwrite)
+- **Slowly Changing Dimension (SCD):** SCD Type 1 (Overwrite)
 
 
 ## 🛠️ Technologies Used
