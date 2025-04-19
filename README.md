@@ -139,7 +139,7 @@ The project uses a Star Schema model:
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/i-haque/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505))](https://www.linkedin.com/in/i-haque/)
 
 ✨ *Feel free to connect with me for any queries!*
 
