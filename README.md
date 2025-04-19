@@ -101,14 +101,14 @@ The project uses a Star Schema model:
 - [📦 Bronze Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/bronze_layer) – Raw data ingestion and staging logic  
 - [✨ Silver Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/silver_layer) – Cleansing and transformation queries  
 - [🥇 Gold Layer Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts/gold_layer) – Business-ready aggregations and analytics
-- [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/quality_check/quality_check_for_loading_data_into_silver_layer.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
+- [🧹 Data Cleaning Scripts (SSMS)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/quality_check/quality_check_for_loading_data_into_silver_layer.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
 
 #### 🐬 MySQL Workbench
 
 - [📦 Bronze Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/bronze_layer) – Raw data ingestion and staging logic  
 - [✨ Silver Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/silver_layer) – Cleansing and transformation queries  
 - [🥇 Gold Layer Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/tree/main/sql_scripts_mysql/gold_layer) – Business-ready aggregations and analytics
-- [🧹 Data Cleaning Scripts](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/sql_scripts_mysql/bronze_layer/data_cleaning_bronze.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
+- [🧹 Data Cleaning Scripts (MySQL)](https://github.com/Injamam001/SQL_Data_Warehouse_Project/blob/main/sql_scripts_mysql/bronze_layer/data_cleaning_bronze.sql) – Standardization, null handling, deduplication, formatting fixes, etc.
 
 
 #### 🗂️ Datasets
